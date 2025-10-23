@@ -13,7 +13,7 @@ export default function App() {
 
   return (
     // Main container: full screen, centered, light background, using Inter font
-    <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4 font-sans">
+    <div className="min-h-screen bg-gray-500 flex items-center justify-center p-4 font-sans">
       
       {/* Content Card: Max width, white background, shadow, rounded corners, responsive padding */}
       <div className="max-w-4xl w-full bg-white shadow-2xl rounded-3xl p-6 md:p-10 lg:p-12 transition-all duration-300">
